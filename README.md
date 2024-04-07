@@ -9,5 +9,5 @@ model, while incorporating anomaly and outlier detection, resulting in a 95% acc
 based on the severity of diabetes.
 
 
-!(https://miro.medium.com/v2/resize:fit:1188/1*XSw3O5MEgRk7DA9yn7JqIw.png)
+![](https://miro.medium.com/v2/resize:fit:1188/1*XSw3O5MEgRk7DA9yn7JqIw.png)
 
